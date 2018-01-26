@@ -1,4 +1,0 @@
-('B', ['Board'])
-('I', ['Incident', 'Investments'])
-('U', ['United', 'Unified'])
-('S', ['States', 'Separated'])
