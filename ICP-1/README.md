@@ -1,5 +1,11 @@
 Submission of ICP-1
 
-Group Member: 
-Zhaobin Zhang  In-Class ID: 25
-Fei Wu         In-Class ID: 24
+Complete the below installations and attach the screenshots to Wiki.
+
+1. Github Desktop and Git Shell
+2. Zen Hub Plugin
+3. IDE (IntelliJ, PyCharm, Android Studio)
+4. sbt
+5. Apaache Spark
+6. Python 3
+7. Tensorflow
