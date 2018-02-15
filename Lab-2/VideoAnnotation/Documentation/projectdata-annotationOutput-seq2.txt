@@ -1,0 +1,20 @@
+nature - 0.98353875
+grass - 0.97306156
+beautiful - 0.97019494
+outdoors - 0.9544462
+landscape - 0.94379514
+summer - 0.9325618
+garden - 0.93046534
+park - 0.923337
+tree - 0.91965836
+flora - 0.9187521
+water - 0.91683316
+color - 0.89445186
+wood - 0.8922948
+season - 0.8896705
+no person - 0.8881403
+environment - 0.88771355
+flower - 0.88732135
+field - 0.8655704
+leaf - 0.85978943
+wild - 0.852089
