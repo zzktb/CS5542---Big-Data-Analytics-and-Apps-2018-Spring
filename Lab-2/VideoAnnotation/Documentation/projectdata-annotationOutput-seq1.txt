@@ -1,0 +1,40 @@
+grass - 0.9930855
+nature - 0.9894693
+animal - 0.9829563
+field - 0.97400063
+beautiful - 0.9725983
+hayfield - 0.9649818
+young - 0.94695795
+outdoors - 0.9445063
+wild - 0.9404732
+summer - 0.9336734
+landscape - 0.9295337
+no person - 0.928506
+desktop - 0.9217175
+one - 0.9217081
+rabbit - 0.92106134
+park - 0.9187011
+illustration - 0.9173173
+wood - 0.9167751
+color - 0.91480035
+mammal - 0.90821147
+nature - 0.9948603
+sky - 0.99124926
+desktop - 0.98238707
+landscape - 0.97702956
+summer - 0.96974385
+color - 0.9581884
+sun - 0.95511913
+sight - 0.95356673
+outdoors - 0.95138085
+season - 0.9497874
+light - 0.94460803
+cloud - 0.9445652
+fair weather - 0.9263531
+tree - 0.9214743
+no person - 0.91233563
+space - 0.9072674
+bright - 0.90699947
+sunny - 0.90060365
+fall - 0.89962655
+beautiful - 0.8875798
